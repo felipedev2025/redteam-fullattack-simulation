@@ -1,5 +1,3 @@
-# redteam-fullattack-simulation
-Este projeto simula um ataque Red Team completo em um ambiente controlado, cobrindo todas as fases essenciais de um ataque real: **Reconhecimento**, **Acesso Inicial**, **Execução**, **Pós-exploração**, **Persistência** e **Exfiltração de Dados**.
 # 🛡️ Red Team Full Attack Simulation
 
 Este projeto simula um ataque Red Team completo em um ambiente controlado, cobrindo todas as fases essenciais de um ataque real: **Reconhecimento**, **Acesso Inicial**, **Execução**, **Pós-exploração**, **Persistência** e **Exfiltração de Dados**.
@@ -52,6 +50,3 @@ O diretório `docs/` contém:
 
 ## ⚠️ Aviso Legal
 Este projeto é **exclusivamente para fins educacionais**. Nunca utilize esse conhecimento em ambientes sem autorização formal e documentada.
-
----
-
